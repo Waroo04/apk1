@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "470486436291",
+    "firebase_url": "https://apk-3-71534-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "apk-3-71534",
+    "storage_bucket": "apk-3-71534.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470486436291:android:06eb79025de77ac19c5576",
+        "android_client_info": {
+          "package_name": "com.example.apk1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGk_ROeJNAZOIFfk2r2ddsH2yz_lPAG_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470486436291:android:894732443cb3da989c5576",
+        "android_client_info": {
+          "package_name": "com.example.apk3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGk_ROeJNAZOIFfk2r2ddsH2yz_lPAG_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
